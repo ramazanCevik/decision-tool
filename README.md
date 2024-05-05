@@ -1,5 +1,5 @@
 # Project description
-Decision-tool is a simple yet effective decision analysis tool. Solves and visualizes Trees with recursive algorithm.
+Cecision analysis tool. Solves and visualizes Trees with recursive algorithm.
 
 ## Usage
 Decision trees are constructed using `Tree` class. it takes nested structure and returns a Tree instance. In the nested structure, dictinary represents decision, List represents discrete probability distribution and tuple represents possible outcome of a discrete probability distribution, scipy.stats can be used for continous probability distribution:
